@@ -1,0 +1,47 @@
+
+html{
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+}
+
+table, td, th{
+    border: 1px solid;
+    padding: 10px;
+}
+
+th{
+    width: 100%;
+    border-collapse: collapse;
+    width: auto;
+}
+
+th{
+    background-color:gainsboro;
+}
+
+tr{
+    border: 1px solid;
+    text-align: left;
+    width: auto;
+}
+
+td{
+    border: 1px solid;
+    width: auto;
+    text-align: left;
+    vertical-align: top;
+}
+
+h2{
+    color: #4682b4;
+}
+
+hr{
+    color: #e37405;
+    border: 1px solid;
+}
+
+#lado{
+    display: flex;
+    justify-content: center;
+}
+
